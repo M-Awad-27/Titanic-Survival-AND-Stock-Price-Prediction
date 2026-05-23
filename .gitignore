@@ -19,6 +19,5 @@ venv/
 Thumbs.db
 .DS_Store
 
-# Data files (large CSVs and images)
-*.csv
-*.png
+# Jupyter checkpoints
+.ipynb_checkpoints/
