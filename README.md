@@ -108,3 +108,9 @@ jupyter notebook
 * **Self-Contained Data Loaders:** Automatically load and cache local CSV datasets or raise warnings if files are missing.
 * **Interactive Visualizations:** Includes rich charts using `matplotlib` and `seaborn` embedded directly in the notebook outputs.
 * **Modern Code Structure:** Clean, well-commented PyTorch training loops, and sklearn preprocessing pipelines.
+
+## 👨‍💻 Author
+
+<h1 align="center">
+  🍁 Made by <span style="color: #FF0055;">M</span><span style="color: #00E5FF;">A</span> 🍁
+</h1>
